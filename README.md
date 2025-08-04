@@ -28,7 +28,7 @@ This project automates the exploitation of the vulnerable `vsftpd 2.3.4` service
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/metasploit-ftp-automation.git
+   git clone https://github.com/GamithaChamoda/metasploit-ftp-automation.git
    cd metasploit-ftp-automation
 Make the script executable:
 
