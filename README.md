@@ -32,16 +32,13 @@ This project automates the exploitation of the vulnerable `vsftpd 2.3.4` service
    cd metasploit-ftp-automation
 Make the script executable:
 
-bash
-Copy
-Edit
-chmod +x exploit.sh
-Run the script:
+bash -->
+chmod +x metasploitable2Hacking.sh
 
-bash
-Copy
-Edit
-./exploit.sh
+Run the script:
+bash -->
+./metasploitable2Hacking.sh
+
 ⚠️ Make sure Metasploit and Nmap are installed. Use on legal lab environments only (e.g., Metasploitable 2 in your own VM).
 
 🧠 What I Learned
